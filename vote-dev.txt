@@ -1,0 +1,47 @@
+[VOTE] Release Apache Answer (Incubating) v1.3.5-RC1
+
+
+
+
+Hello,
+
+    This is a call for vote to release Apache Answer(Incubating) version v1.3.5-RC1.
+
+    The release candidates:
+    https://dist.apache.org/repos/dist/dev/incubator/answer/1.3.5-incubating-RC1
+
+    Release notes:
+    https://github.com/apache/incubator-answer/releases/tag/v1.3.5-RC1
+
+    Git tag for the release:
+    https://github.com/apache/incubator-answer/releases/tag/v1.3.5-RC1
+
+    Git commit id for the release:
+    https://github.com/apache/incubator-answer/commit/7e8ec522603bd21a8b12d967a4859af29c79b7c8
+
+    Keys to verify the Release Candidate:
+    https://downloads.apache.org/incubator/answer/KEYS
+
+    The vote will be open for at least 72 hours or until the necessary number of votes are reached.
+
+    Please vote accordingly:
+
+    [ ] +1 approve
+    [ ] +0 no opinion
+    [ ] -1 disapprove with the reason
+
+    Checklist for reference:
+
+    [ ] Download links are valid.
+    [ ] Checksums and PGP signatures are valid.
+    [ ] Source code distributions have correct names matching the current release.
+    [ ] LICENSE and NOTICE files are correct for each Answer repo.
+    [ ] All files have license headers if necessary.
+    [ ] No unlicensed compiled archives bundled in source archive.
+
+    To compile from the source, please refer to:
+
+    https://github.com/apache/incubator-answer#building-from-source
+
+Thanks,
+shuai

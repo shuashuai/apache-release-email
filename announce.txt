@@ -1,0 +1,22 @@
+[ANNOUNCE] Apache Answer(Incubating) v1.3.1 available
+
+
+Hello everyone,
+
+The Apache Answer(Incubating) v1.3.1 has been released!
+
+Apache Answer is a Q&A platform software for teams at any scale.
+Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
+
+Download Links: https://answer.apache.org/download/
+
+Release Notes: https://github.com/apache/incubator-answer/releases/tag/v1.3.1
+
+Website: https://answer.apache.org/
+
+Resources:
+- Issue: https://github.com/apache/incubator-answer/issues
+- Mailing list: dev@answer.apache.org
+
+Thanks,
+shuai

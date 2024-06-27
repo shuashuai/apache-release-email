@@ -1,0 +1,33 @@
+[RESULT][VOTE] Release Apache Answer(Incubating) v1.3.1-RC2 (Round2)
+
+
+
+
+Hello Incubator PMC and Community,
+
+The vote to release Apache Answer(Incubating) v1.3.1-RC2 has passed with 4 +1 binding and 1 +1 non-binding votes, no +0 or -1 votes.
+
+
+4 (+1 binding)
+- Christofer Dutz
+- Suyan
+- tison
+- Charles Zhang
+
+1 (+1 non-binding)
+- robin ren
+
+no further 0 or -1 votes.
+
+The vote thread:
+https://lists.apache.org/thread/h6mn9d0kpdbwnjpc65t94sdzpv4g5vqm
+
+Thanks for reviewing and voting for our release candidate.
+
+We will proceed with publishing the approved artifacts and sending out the announcement soon.
+
+Thanks,
+shuai
+
+
+Thank you for your careful inspection，we will fix the two issues you mentioned in the next version.

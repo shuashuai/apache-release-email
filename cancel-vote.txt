@@ -1,0 +1,12 @@
+[CANCEL] [VOTE] Release Apache Answer (Incubating) v1.3.1-RC2
+
+
+
+
+Hello Incubator Community: I'm cancelling this vote: 
+https://lists.apache.org/thread/w6gkfcyonrxjmcv0pffbhg2h1q6c1l9c
+
+Thanks to sebb and Suyan for their careful verification, I will re-upload the release files and use the official location for the KEYS file. I'll fix them and start the new round vote process.
+
+Best Regards,
+shuai

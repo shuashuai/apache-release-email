@@ -1,0 +1,19 @@
+[RESULT][VOTE] Release Apache Answer(Incubating) v1.3.5-RC1
+
+
+
+
+Hello everyone,
+
+The vote closes now with the following results:
+
+3 (+1 binding) votes
+- LinkinStar
+- Kumfo Yang
+- Yubin Ren
+
+
+I will bring the vote results to general@incubator.apache.org
+
+Thanks,
+shuai
