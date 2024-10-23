@@ -22,6 +22,10 @@ Hello,
     Keys to verify the Release Candidate:
     https://downloads.apache.org/incubator/answer/KEYS
 
+    Keys to verify the Release Candidate:
+    The artifacts signed with PGP key [F4FB827C], corresponding to [shuai@apache.org], that can be found in keys file:
+    https://dist.apache.org/repos/dist/release/incubator/answer/KEYS
+
     The vote will be open for at least 72 hours or until the necessary number of votes are reached.
 
     Please vote accordingly:
