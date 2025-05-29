@@ -1,0 +1,13 @@
+[RESULT][VOTE] Release Apache Answer v1.5.0-RC1
+
+Hello everyone,
+
+The vote closes now with the following results:
+
+3 (+1 binding) votes
+- mingcheng
+- Luffy
+- Yubin Ren
+
+Thanks,
+shuai
